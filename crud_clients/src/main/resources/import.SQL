@@ -1,0 +1,11 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Rodrigo Hisashi Takeuti', '243.695.080-61', 15000.00,  TIMESTAMP WITH TIME ZONE '2000-06-05T20:50:07.12345Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Adilson Soares', '124.394.970-88',3050.00, TIMESTAMP WITH TIME ZONE '1956-01-10T20:50:07.12345Z', 3, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Ideraldo Pereira', '530.944.990-66',5040.00, TIMESTAMP WITH TIME ZONE '1976-12-13T20:50:07.12345Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Rosa da Silva', '742.423.490-09', 5302.00,TIMESTAMP WITH TIME ZONE '1968-06-21T20:50:07.12345Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Gabriela Kampos', '075.487.190-86', 1596.00,TIMESTAMP WITH TIME ZONE '1996-06-25T20:50:07.12345Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Milena Rosana', '943.615.080-61', 4851.00, TIMESTAMP WITH TIME ZONE '1968-02-05T20:50:07.12345Z', 5, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maira Costa Ramos', '842.880.820-13', 3500.00,TIMESTAMP WITH TIME ZONE '1978-01-05T20:50:07.12345Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Douglas Costa', '258.695.424-64',1850.00, TIMESTAMP WITH TIME ZONE '2005-06-08T20:50:07.12345Z', 0, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Maira Mello', '842.880.820-13', 8000.00,TIMESTAMP WITH TIME ZONE '2005-11-09T20:50:07.12345Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Melissa Takina', '842.880.820-13', 4123.00,TIMESTAMP WITH TIME ZONE '2008-12-11T20:50:07.12345Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At) VALUES ('Denilson Santos', '842.880.820-13', 8522.00,TIMESTAMP WITH TIME ZONE '1982-08-15T20:50:07.12345Z', 0, NOW());
